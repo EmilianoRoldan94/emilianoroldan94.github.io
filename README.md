@@ -1,43 +1,37 @@
-# Chirpy Starter
+<div align="center">
+  <br>
+  <img src="/assets/img/logo.png" alt="Cosmos Personal" width="200"/>
+  <br>  
+  <p align="center">
+    <i>Ayudá a que crezca el cosmos via <a href="link.mercadopago.com.ar/emilianoroldan94">MercadoPago</a> o <a href="https://cafecito.app/emilianoroldan94">comprame un cafecito :D</a>.</i>
+  </p>
+</div>
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+---
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+### Bienvenidos a mi universo de bolsillo!
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+Soy Emiliano (o Emi, como gusten), argentino, curioso en exceso y librepensador.
+Me gusta aprender sobre tecnología, filosofía, ciencias, cultura y mejorar lo más que pueda día a día. Tambien tengo otros hobbies más ocasionales como la lectura, corregir compulsivamente cualquier falacia,y los videojuegos, tanto el disfrutarlos como también crear algun proyecto solo para entender la lógica de como funciona tal o cual mecánica.
+Este Cosmos (es como me gusta llamar a este ~~antro~~ blog) es mi forma de darle orden a las ideas que surgen conforme vivo y cumplo mi rol como persona en este mundo, también busca algún día reencontrarse con un "yo" futuro a quien dejarle algo. 
+Si llegaron hasta acá pueden considerarse invitados a explorar conmigo los confines de mi creación.
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+*Ad Astra, mis estimados!*
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+---
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+Cosmos Personal es un blog realizado con la plantilla de [Cotes Chung](https://github.com/cotes2020) llamado [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy/)
 
-## Usage
-
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
-
-## Contributing
-
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
-
-## License
-
-This work is published under [MIT][mit] License.
+> [Demo de la plantilla Original](https://chirpy.cotes.page/)
 
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+
+---
+
+### Licencia de Contenido (Posts, imágenes, audio)
+CC BY-NC 4.0
+
+### Licencia de la plantilla y codigo
+MIT
