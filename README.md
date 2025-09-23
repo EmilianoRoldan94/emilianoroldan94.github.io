@@ -3,7 +3,7 @@
   <img src="/assets/img/logo.png" alt="Cosmos Personal" width="200"/>
   <br>  
   <p align="center">
-    <i>Ayudá a que crezca el cosmos via <a href="link.mercadopago.com.ar/emilianoroldan94">MercadoPago</a> o <a href="https://cafecito.app/emilianoroldan94">comprame un cafecito :D</a>.</i>
+    <i>Ayudá a que crezca el cosmos via <a href="https://link.mercadopago.com.ar/emilianoroldan94">MercadoPago</a> o <a href="https://cafecito.app/emilianoroldan94">comprame un cafecito :D</a>.</i>
   </p>
 </div>
 
